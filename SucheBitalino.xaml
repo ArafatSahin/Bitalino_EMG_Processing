@@ -1,0 +1,36 @@
+﻿<Window x:Name="BitalinoSearch" x:Class="WPF_Bitalino.SearchBluetoothWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Bitalino"
+        mc:Ignorable="d"
+        Title="SucheBitalino" Height="300" Width="300" FontSize="14" WindowStyle="None" ResizeMode="NoResize" Loaded="Window_Loaded" AllowsTransparency="True" Background="Transparent" Topmost="True" >
+    <Border x:Name="Search" CornerRadius="60" AutomationProperties.HelpText="search" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}">
+        <Border Background="#FF29354B" Margin="20" CornerRadius="20">
+            <StackPanel Margin="20">
+                <Label Content="Suche Geräte" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+                <Separator/>
+                <ProgressBar x:Name="Progressbar" Height="23" Margin="4,12,4,0" Background="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" BorderThickness="2" Value="-1" Foreground="#FFEDC713" BorderBrush="Gray">
+                    <ProgressBar.Effect>
+                        <DropShadowEffect ShadowDepth="1"/>
+                    </ProgressBar.Effect>
+                </ProgressBar>
+                <ComboBox x:Name="comboBox_BitalinoIDs" VerticalContentAlignment="Center" HorizontalAlignment="Right" Margin="0,12,0,0" BorderBrush="#89000000" BorderThickness="2" Text="                   Bitalino IDs" Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}" TextOptions.TextFormattingMode="Display" TextOptions.TextHintingMode="Animated" Foreground="Black" IsEditable="True" IsReadOnly="True" FontSize="16" Width="220" SelectionChanged="comboBox_BitalinoIDs_SelectionChanged">
+                    <ComboBox.Effect>
+                        <DropShadowEffect BlurRadius="0" ShadowDepth="0" RenderingBias="Quality"/>
+                    </ComboBox.Effect>
+                    <ComboBox.ContextMenu>
+                        <ContextMenu Background="White" BorderBrush="#FF868FC3">
+                            <ContextMenu.Effect>
+                                <BlurEffect/>
+                            </ContextMenu.Effect>
+                        </ContextMenu>
+                    </ComboBox.ContextMenu>
+                </ComboBox>
+                <Button x:Name="button_verbinden" Margin="0,12,0,0" Content="verbinden" d:LayoutOverrides="Height" Foreground="White" FontSize="16" Background="#FF14354F" BorderBrush="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="button_verbinden_Click" IsEnabled="False"/>
+                <Button x:Name="button_abbrechen" Margin="0,12,0,0" Content="abbrechen" d:LayoutOverrides="Height" Background="#FF14354F" FontSize="16" Click="button_abbrechen_Click" BorderBrush="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+            </StackPanel>
+        </Border>
+    </Border>
+</Window>

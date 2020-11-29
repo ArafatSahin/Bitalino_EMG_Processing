@@ -1,0 +1,55 @@
+﻿<Window x:Class="WPF_Bitalino.Kalibrierung"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Bitalino"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Einstellung" Height="436.281" Width="393.659" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Border x:Name="Search" CornerRadius="60" AutomationProperties.HelpText="search" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Margin="0,0,-453,-135">
+        <Border Background="#FF29354B" Margin="20,20,0,24" CornerRadius="20" HorizontalAlignment="Left" Width="799">
+            <StackPanel Margin="20">
+                <Label x:Name="label_Ton_Einstellung" Content="Ton Einstellung" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+                <Separator/>
+                <Grid/>
+
+                <StackPanel Height="50" Margin="0,20,-0.3,0" Orientation="Horizontal">
+                    <Label x:Name="Kleiner_Finger" Content="Kleiner Finger" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,0,5" Width="142" VerticalAlignment="Center"/>
+                    <materilDesign:PackIcon kind="Sound" width="30" Height="30"/>
+                    <Slider Width="400" BorderThickness="0" Foreground="#FF06EC06" VerticalAlignment="Center" HorizontalAlignment="Center" ForceCursor="True"/>
+                </StackPanel>
+
+                <StackPanel Height="50" Margin="0,20,-1,0" Orientation="Horizontal">
+                    <Label x:Name="Ring_Finger" Content="Ringfinger" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,0,5" Width="142" VerticalAlignment="Center"/>
+                    <Slider Width="400" HorizontalAlignment="Center" Foreground="#FF06EC06" VerticalAlignment="Center"/>
+                </StackPanel>
+
+                <StackPanel Height="50" Margin="0,20,-0.9,0" Orientation="Horizontal">
+                    <Label x:Name="Mittel_Finger" Content="Mittelfinger" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,0,5" Width="142" VerticalAlignment="Center"/>
+                    <Slider Width="400" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FF06EC06"/>
+                </StackPanel>
+
+                <StackPanel Height="50" Margin="0,20,-0.12,0" Orientation="Horizontal">
+                    <Label x:Name="Zeige_Finger" Content="Zeigefinger" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,0,5" Width="142" VerticalAlignment="Center"/>
+                    <Slider Width="400" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FF06EC06"/>
+                </StackPanel>
+
+                <StackPanel Height="50" Margin="0,20,-0.15,0" Orientation="Horizontal">
+                    <Label x:Name="_Daumen" Content="Daumen" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,0,5" Width="142" VerticalAlignment="Center"/>
+                    <Slider Width="400" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FF06EC06"/>
+                </StackPanel>
+                <StackPanel Height="50" Margin="0,20,-0.18,0" Orientation="Horizontal">
+                    <Button Content="Übernehmen" Height="Auto" Width="250" Background="#FF1D8F0B" BorderBrush="#FF020202" FontSize="20" FontWeight="Bold" HorizontalAlignment="Right" HorizontalContentAlignment="Center" Margin="0"/>
+                    <Button Content="Abbrechen" Height="Auto" Width="250" HorizontalAlignment="Right" Padding="16,4" ScrollViewer.CanContentScroll="True" FontSize="20" FontWeight="Bold" Background="#FFA41809" Margin="260,0,0,0" BorderBrush="Black" Click="abrechen_Click"/>
+
+                </StackPanel>
+                <Label Content="Label" HorizontalAlignment="Left" Height="44" Margin="605,0,0,0" Width="101"/>
+                <Button Content="Button" d:LayoutOverrides="Height"/>
+                <Button Content="Button" d:LayoutOverrides="Height"/>
+
+            </StackPanel>
+        </Border>
+    </Border>
+</Window>
+

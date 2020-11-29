@@ -1,0 +1,85 @@
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.exe.config
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.exe
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.pdb
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\MainWindow.g.cs
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\App.g.cs
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.cache
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.lref
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\MainWindow.baml
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.g.resources
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.Properties.Resources.resources
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csproj.GenerateResource.Cache
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.exe
+c:\users\yeshe kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.pdb
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignColors.dll
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\App.baml
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\SucheBitalino.g.cs
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\SucheBitalino.baml
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\BITalino.xml
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csprojResolveAssemblyReference.cache
+C:\Users\Yeshe Kway\documents\visual studio 2015\Projects\WPF_Bitalino\WPF_Bitalino\bin\Debug\BITalino.dll
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.exe.config
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.exe
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.pdb
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.exe
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.pdb
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\BITalino.dll
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignColors.dll
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\BITalino.xml
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csprojResolveAssemblyReference.cache
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\MainWindow.g.cs
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\SucheBitalino.g.cs
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\App.g.cs
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.cache
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.lref
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\App.baml
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\MainWindow.baml
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\SucheBitalino.baml
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.g.resources
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.Properties.Resources.resources
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csproj.GenerateResource.Cache
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\Kalibrierung.g.cs
+C:\Users\Yeshe Kway\Documents\Visual Studio 2015\Projects\WPF_safe\WPF_Bitalino\WPF_Bitalino\obj\Debug\Kalibrierung.baml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.exe.config
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.exe
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\WPF_Bitalino.pdb
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\BITalino.dll
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\BITalino.xml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csprojResolveAssemblyReference.cache
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\Kalibrierung.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\MainWindow.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\SucheBitalino.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\App.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.cache
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.lref
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\App.baml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\Kalibrierung.baml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\MainWindow.baml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\SucheBitalino.baml
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.g.resources
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.Properties.Resources.resources
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csproj.GenerateResource.cache
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csproj.CoreCompileInputs.cache
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.csproj.CopyComplete
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.exe
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF_Bitalino\WPF_Bitalino\obj\Debug\WPF_Bitalino.pdb
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\WPF_Bitalino.csprojResolveAssemblyReference.cache
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\Einstellung.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\Kalibrierung.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\MainWindow.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\SucheBitalino.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\App.g.cs
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.cache
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\WPF_Bitalino_MarkupCompile.lref
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\WPF_Bitalino.exe
+C:\Users\Aro\Desktop\Projekt_PM_BiTalino\WPF.Bitalino.Einstellung.Version_1\WPF_Bitalino\obj\Debug\WPF_Bitalino.pdb
